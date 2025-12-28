@@ -2,20 +2,20 @@
 
 A pixel-perfect replica of the Axiom Trade token discovery table, built with Next.js 14, Redux Toolkit, and React Query.
 
-## 🚀 Live Demo
+##  Live Demo
 [View Live Deployment](https://axiom-clone-dusky.vercel.app)
 
-## 🎥 Video Walkthrough
-[Watch on YouTube](PASTE_YOUR_YOUTUBE_LINK_HERE)
+## Video Walkthrough
+[Watch on YouTube](https://youtu.be/k5Y9Q4e6QdQ)
 
-## ✅ Features Implemented
+##  Features Implemented
 - **Tabs:** New Pairs, Final Stretch, Migrated.
 - **Real-time:** Mock WebSocket updates with green/red flash effects.
 - **Sorting:** Redux-powered sorting by Price, Change, etc.
 - **Interactive:** Trade Modal (Dialog) and Filters (Popover).
 - **Performance:** Memoized components and Skeleton loading states.
 
-## 📱 Responsive Design Snapshots
+##  Responsive Design Snapshots
 
 ### Desktop View
 ![Desktop Preview](./public/assets/desktop-preview.png)
@@ -23,7 +23,7 @@ A pixel-perfect replica of the Axiom Trade token discovery table, built with Nex
 ### Mobile View (320px)
 ![Mobile Preview](./public/assets/mobile-preview.png)
 
-## 🛠 Tech Stack
+## Tech Stack
 - Next.js 14 (App Router)
 - TypeScript (Strict)
 - Tailwind CSS
